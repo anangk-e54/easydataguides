@@ -12,16 +12,13 @@
   1. Go to main page and create new project
   2. Complete the project form and click the "Create Project" button. You can set your project like below
      ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+     | Hosting | Share Project |
+     | Engine | Maria DB|
+     | Version | 10.8 |
+     
+     ```
 
-| Hosting | Share Project |
-| Engine | Maria DB|
-| Version | 10.8 |
+
 
 ## Step 3 : Create your table design
   1. Enter to your project and go to the table desin menu
