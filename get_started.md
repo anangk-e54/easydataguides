@@ -11,6 +11,10 @@
 ## Step 2 : Create your project
   1. Go to main page and create new project
   2. Complete the project form and click the "Create Project" button. You can set your project like below
+     | Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 | Hosting | Share Project |
 | ------- | ------------- |
 | Engine | Maria DB|
