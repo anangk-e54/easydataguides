@@ -12,31 +12,29 @@
   1. Go to main page and create new project
   2. Complete the project form and click the "Create Project" button. You can set your project like below
      ```
-     | Hosting | Share Project |
-     | Engine | Maria DB|
-     | Version | 10.8 |
+     Hosting : "Share Project"
+     Engine  : "Maria DB"
+     Version : 10.8
      
      ```
-
-
 
 ## Step 3 : Create your table design
   1. Enter to your project and go to the table desin menu
   2. Create you tabel (e.g. Products ) and save changes
   3. Enter to your table and click the "Design" button to start design your table.
-     Here's a sentence with a footnote. [^1]
-     [^1]: This is the footnote.
   5. Add several colums and save it. you can make your table like below
-     | Column name | Data type |
-     | id | int |
-     | name | varchar |
-     | code | varchar |
-     | size | varchart |
-     | color | varchar |
+     
+| Column name | Data type |
+| ----------- | --------- |
+| id          | int       |
+| name        | varchar   |
+| code        | varchar   |
+| size        | varchart  |
+| color       | varchar   |
 
 ## Step 4 : Create your form design
+  1. Go to the form design menu and create your form
+  2. ![image](https://github.com/anangk-e54/easydataguides/assets/59007298/b0fed40c-507e-4809-ade4-fc3700b10559)
+
+
 ## Step 5 : Input your data in the form entry
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
