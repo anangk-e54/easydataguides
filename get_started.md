@@ -11,9 +11,10 @@
 ## Step 2 : Create your project
   1. Go to main page and create new project
   2. Complete the project form and click the "Create Project" button. You can set your project like below
-     | Hosting | Share Project |
-     | Engine | Maria DB|
-     | Version | 10.8 |
+| Hosting | Share Project |
+| ------- | ------------- |
+| Engine | Maria DB|
+| Version | 10.8 |
 
 ## Step 3 : Create your table design
   1. Enter to your project and go to the table desin menu
@@ -29,3 +30,7 @@
 
 ## Step 4 : Create your form design
 ## Step 5 : Input your data in the form entry
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
