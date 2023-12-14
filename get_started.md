@@ -34,7 +34,20 @@
 
 ## Step 4 : Create your form design
   1. Go to the form design menu and create your form
-  2. ![image](https://github.com/anangk-e54/easydataguides/assets/59007298/b0fed40c-507e-4809-ade4-fc3700b10559)
-
+  2. Enter a name for your form and choose which table to create as the base data source ![image](https://github.com/anangk-e54/easydataguides/assets/59007298/b0fed40c-507e-4809-ade4-fc3700b10559)
+     ```
+     e.g.
+     Label : "Product"
+     Table : "products"
+     
+     ```
 
 ## Step 5 : Input your data in the form entry
+  1. Go to form entry menu and enter to your form
+  2. Clcik the [New Data](https://test.harvestindo.com/easydata/industry/sewing_thread/entrymode/form/c2f9f21f5fd6) button to open the form to insert new data
+  3. Complete your form and click the [Save Changes] button to insert it!
+
+## Step 6 : Create your report
+> Coming soon
+
+## Step 7 : Check and enjoy your report
