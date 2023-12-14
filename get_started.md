@@ -24,7 +24,9 @@
   1. Enter to your project and go to the table desin menu
   2. Create you tabel (e.g. Products ) and save changes
   3. Enter to your table and click the "Design" button to start design your table.
-  4. Add several colums and save it. you can make your table like below
+     Here's a sentence with a footnote. [^1]
+     [^1]: This is the footnote.
+  5. Add several colums and save it. you can make your table like below
      | Column name | Data type |
      | id | int |
      | name | varchar |
