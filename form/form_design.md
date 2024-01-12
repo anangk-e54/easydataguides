@@ -94,23 +94,31 @@
 2. Click the "Gear" icon to open the properties window
    - Label : it's like a name or title for your task
    - Description : You can write a description of what the task does
-   - Table : 
+   - Table : Select the table into which you want to insert your data
+   - Column : Set any column where you want to enter your data
+   - Value : Select which values from the form to insert in each column
 3. Click the "Save Changes" button to save and finish it
 
 ## Task properties setting : Update
 1. Go to your project and open the playbook section of the form design menu
 2. Click the "Gear" icon to open the properties window
-   - Label :
-   - Description :
-   - Table : 
+   - Label : it's like a name or title for your task
+   - Description : You can write a description of what the task does
+   - Table : Select the table into which you want to update your data
+   - Column :Set any column where you want to enter your data
+   - Value :Select which values from the form to insert in each column
+   - Condition : Set conditions to select which columns to update
+     - Column : select the column to set as a parameter to select the row to update
+     - Operator : set the operator
+     - Value : select the value submitted from the form to set as the value parameter to select which rows to update
 3. Click the "Save Changes" button to save and finish it
 
 ## Task properties setting : Update & Insert
 1. Go to your project and open the playbook section of the form design menu
 2. Click the "Gear" icon to open the properties window
-   - Label :
-   - Description :
-   - Table : 
+   - Label : it's like a name or title for your task
+   - Description : You can write a description of what the task does
+   - Table : Select the table into which you want to update your data or to insert it is a new data
 3. Click the "Save Changes" button to save and finish it
 
 ## Task properties setting : Delete
@@ -122,12 +130,16 @@
 3. Click the "Save Changes" button to save and finish it
 
 ## Task properties setting : Begin Transaction
+> Coming soon
 
 ## Task properties setting : Commit
+> Coming soon
 
 ## Task properties setting : Math
+> Coming soon
 
 ## Task properties setting : Retrieve
+> Coming soon
 
 ## Delete a task
 1. Go to your project and open the playbook section of the form design menu
