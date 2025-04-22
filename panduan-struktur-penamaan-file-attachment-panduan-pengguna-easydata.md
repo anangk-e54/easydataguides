@@ -1,0 +1,75 @@
+# Struktur penamaan file pada panduan pengguna EASYDATA
+
+Penamaan file pada perancangan panduan pengguna untuk aplikasi EASYDATA didasarkan pada struktur rute menu dan fitur sebegai berikut:
+
+- login
+- register
+- organization
+- project
+  - entry
+    - form
+    - report
+    - kanban
+    - chart
+  - design
+    - table
+      - create
+      - view
+      - design
+    - form
+      - create
+      - view
+      - datasource
+        - addsource
+        - editsource
+        - addcolumn
+        - settingcolumn
+        - conditioncolumn
+      - formdesign
+        - addfield
+        - field = [author, boolean, date, datetime, dropdown, expression, media, number, paragraph, radio, table, text, separator, spacer, editr, switchgroup]
+          - properties
+      - playbook
+        - createtask
+        - task = [arraydiff, math, begin transaction, initialrecord, updaterecord, updateinsertrecord, deleterecord, committransaction, queryrecord, stopexecution]
+          - setting
+          - condition
+          - loops
+      - setting
+    - report
+      - create
+      - view
+      - datasource
+      - reportdesign
+      - setting
+    - kanban
+      - create
+      - view
+      - datasource
+      - boarddesign
+      - carddesign
+      - setting
+    - chart
+      - create
+      - view
+      - series
+      - axis
+      - setting
+  - media
+    - addcategory
+    - viewcategory
+      - addrecord
+      - editcategory
+  - setting
+    - general
+    - collaboration
+    - apiaccess
+- profile
+- billing
+  - package
+  - invoice
+- setting
+- help
+- logout
+
+ 
